@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297260001298",
+    "project_id": "gr-ecommerce-school-project",
+    "storage_bucket": "gr-ecommerce-school-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297260001298:android:de651c479b9b1edfd1d0cb",
+        "android_client_info": {
+          "package_name": "com.furqan.flutter_ecommerce_ui_kit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297260001298-iorlsk039m3kl3oba9nfu95mhqgloqdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6jXQOhx__wymcBEPCcy5fKRT69CSsE5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297260001298-iorlsk039m3kl3oba9nfu95mhqgloqdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
